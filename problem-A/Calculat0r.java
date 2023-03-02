@@ -1,5 +1,5 @@
 import java.util.*;
-public class pra3 {
+public class Calculat0r {
     public static void main(String[] args) {
 
 
