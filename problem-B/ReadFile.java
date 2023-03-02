@@ -2,7 +2,7 @@ mport java.io.File;
 import java.io.FileNotFoundException;
 
 import java.util.*;
-public class pra3 {
+public class ReadFile {
     public static void main(String[] args) {
 
         String [] linne = readFile("popo.txt");
